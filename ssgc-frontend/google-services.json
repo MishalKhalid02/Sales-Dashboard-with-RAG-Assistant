@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30007036850",
+    "project_id": "ssgcl-dashboard",
+    "storage_bucket": "ssgcl-dashboard.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30007036850:android:a4135fd0e1418eabd2b2ab",
+        "android_client_info": {
+          "package_name": "com.ssgc.dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0liF64lyxqoAdnGhcFlQ5s8TpBTeMUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
